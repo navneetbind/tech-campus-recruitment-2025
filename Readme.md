@@ -1,3 +1,6 @@
+Whoever added the PS base64 code is genius!
+Used binary search to find the date to extract logs.
+
 # Problem Statement: Efficient Log Retrieval from a Large File
 
 ## Background  
